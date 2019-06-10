@@ -1,3 +1,4 @@
+
 @media (max-width: 600px){
 #p1,#p2,#p3 {
 	font-size: 18px;
@@ -15,6 +16,12 @@
 
 #myimg1{
 	left:10vw;
+}
+}
+
+@media (width:640px){
+#myimg1{
+	margin-left:-6.5vw;
 }
 }
 html{
