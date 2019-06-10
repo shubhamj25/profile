@@ -1,0 +1,42 @@
+@media (max-width: 600px){
+#p1,#p2,#p3 {
+	font-size: 18px;
+
+}
+#membership {
+	font-size: 17px;
+}
+#media1 {
+	font-size: 17px;
+}
+#media2 {
+	font-size: 17px;
+}
+
+#myimg1{
+	left:10vw;
+}
+}
+html{
+    width:100%;
+    height:100%;
+}
+
+#body {
+width: 100%;
+height: 100%;
+}
+.carousel-item{
+	height:100%;
+	background:no-repeat center center fixed;	
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+}
+.btn-primary1{
+background:black;
+}
+.btn-primary2{
+background-image: url("image2.jpeg");
+}
