@@ -18,11 +18,11 @@
 	left:10vw;
 }
 }
-@media (width:412px){
+@media (max-width:412px){
 #myimg1{
 	margin-left:3vw;
 }
-@media (width:320px){
+@media (max-width:320px){
 #myimg1{
 	margin-left:-6.5vw;
 }
