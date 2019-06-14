@@ -50,3 +50,8 @@ background:black;
 .btn-primary2{
 background-image: url("image2.jpeg");
 }
+
+#sticky-footer {
+  flex-shrink: none;
+  margin-top:100%;
+}
